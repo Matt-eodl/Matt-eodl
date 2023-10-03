@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently sruding on in Los Pinos
+- 🌱 I’m currently learning HTML, CSS y JavaScript
+- 📫 How to reach me: Gmail:deleonmateo888@gmail.com
 <!--
 **Matt-eodl/Matt-eodl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
